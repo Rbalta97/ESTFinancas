@@ -20,7 +20,7 @@ const upload = multer({ dest: 'uploads/' });
 
 // Configurações do Azure Cosmos DB
 const endpoint = 'https://cosmos-trabpratico.documents.azure.com:443/';
-const key = ';tZiCaD8eR0Qumu0KJ1RIJpUPsRIzhbY9lOOv5bmvlHkc4fYeuwwtRmlkUuAkFP6nzxzelpCiVgqLACDbTEKtZA==;';
+const key = ';sgBbaPhGzxRkwN5H6FhMI7frpXAF2LLVwfsmTZsg5UlfUBSeZDc6tzWEGj3c45EMQsy9EP5hnBZFACDbgvFLkQ==;';
 const databaseId = 'registo_faturas';
 const containerId = 'faturas';
 
